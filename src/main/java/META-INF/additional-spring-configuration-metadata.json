@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "jwt.expiration",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.expiration'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  },
+  {
+    "name": "ldap.baseDn",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.baseDn'"
+  },
+  {
+    "name": "ldap.searchBase",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.searchBase'"
+  },
+  {
+    "name": "ldap.dnPatterns",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.dnPatterns'"
+  },
+  {
+    "name": "ldap.searchFilter",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.searchFilter'"
+  },
+  {
+    "name": "ldap.groups",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.groups'"
+  },
+  {
+    "name": "ldap.groupsFilter",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.groupsFilter'"
+  },
+  {
+    "name": "ldap.ldapUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.ldapUrl'"
+  },
+  {
+    "name": "ldap.password.field",
+    "type": "java.lang.String",
+    "description": "A description for 'ldap.password.field'"
+  },
+  {
+    "name": "vfmanager.security.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'vfmanager.security.enabled'"
+  }
+]}
